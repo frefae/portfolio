@@ -53,13 +53,17 @@
     }
 
     .div-margin-mobile{
-        width: 70%;
-        margin-left: 70px;
+        width: 98%;
+        margin-left: 3px;
     }
 
     .mobile-size{
         flex: none;
         width: 98%;
         margin-bottom: 10px;
+    }
+
+    .mobile-hidden{
+        display: none;
     }
 }
