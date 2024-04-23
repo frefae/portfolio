@@ -1,0 +1,35 @@
+.div-card{
+    background-color: #ccd0d8;
+    font-family: "72 Condensed";
+}
+
+.div-sub{
+    background-color: #04143f;
+    color: white;
+    padding: .5rem;
+    height: 103px;
+}
+
+.fs-20{
+    font-size: 20px !important;
+}
+
+.bg-info{
+    background-color: #04143f !important;
+}
+
+.black-text{
+    color: black;
+    font-family: "72 Condensed";
+}
+
+.img-button{
+    cursor: pointer;
+}
+
+.resume{
+    color: black;
+    font-family: "72 Condensed";
+    font-weight: bold;
+    font-size: 30px !important;
+}
